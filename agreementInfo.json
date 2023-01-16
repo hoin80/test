@@ -2,6 +2,6 @@
     "code" : "SUCCESS",
     "message" : "성공",
     "payload" : {
-        "agreement" : "false"
+        "agreement" : "true"
     }
 }
