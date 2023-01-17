@@ -2,6 +2,7 @@
     "code" : "SUCCESS",
     "message" : "성공",
     "payload" : {
-        "agreement" : "true"
+        "agreement" : "false",
+        "phoneNo" : "01022223333"
     }
 }
