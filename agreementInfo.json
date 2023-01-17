@@ -3,6 +3,6 @@
     "message" : "성공",
     "payload" : {
         "agreement" : "true",
-        "phoneNo" : "01022223333"
+        "phoneNo" : ""
     }
 }
